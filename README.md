@@ -4,10 +4,10 @@
 
 ## 公開ページ
 
-- [ヒマッチ プライバシーポリシー](./himatch-privacy-policy.md)
-- [まちあわせ駅 プライバシーポリシー](./machiawase-eki-privacy-policy.md)
-- [アンチピック早見表 プライバシーポリシー](./privacy-policy-matchups.md)
-- [Snapfilm プライバシーポリシー](./privacy-policy-snapfilm.md)
+- [ヒマッチ プライバシーポリシー](./himatch-privacy-policy.html)
+- [まちあわせ駅 プライバシーポリシー](./machiawase-eki-privacy-policy.html)
+- [アンチピック早見表 プライバシーポリシー](./privacy-policy-matchups.html)
+- [Snapfilm プライバシーポリシー](./privacy-policy-snapfilm.html)
 
 GitHub Pagesで公開しており、各アプリ・サイトのプライバシーポリシーURL欄にはGitHub Pages上の各ページのURLを登録しています。
 
