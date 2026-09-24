@@ -4,8 +4,8 @@
 
 ## 公開ページ
 
-- [ヒマッチ プライバシーポリシー](./himatch-privacy-policy.html)
-- [まちあわせ駅 プライバシーポリシー](./machiawase-eki-privacy-policy.html)
+- [ヒマッチ プライバシーポリシー](./privacy-policy-himatch.html)
+- [まちあわせ駅 プライバシーポリシー](./privacy-policy-machiawase-eki.html)
 - [アンチピック早見表 プライバシーポリシー](./privacy-policy-matchups.html)
 - [Snapfilm プライバシーポリシー](./privacy-policy-snapfilm.html)
 
