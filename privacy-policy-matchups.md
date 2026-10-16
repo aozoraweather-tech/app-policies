@@ -1,6 +1,6 @@
 # プライバシーポリシー
 
-本ポリシーは、zoraweather（以下「当方」）が提供するWebサイト「アンチピック早見表（Counter Pick Chart）」（以下「本サイト」）に適用されます。
+本ポリシーは、zoraweatherdev（以下「当方」）が提供するWebサイト「アンチピック早見表（Counter Pick Chart）」（以下「本サイト」）に適用されます。
 
 ## 1. 収集する情報
 

@@ -6,7 +6,7 @@
 
 zoraweatherdev@gmail.com
 
-運営：zoraweather
+運営：zoraweatherdev
 
 返信までに数日お時間をいただく場合があります。あらかじめご了承ください。
 

@@ -79,5 +79,5 @@ Googleによる情報の取り扱いについては、以下をご確認くだ�
 
 本プライバシーポリシーに関するお問い合わせは、以下の連絡先までお願いいたします。
 
-- 開発者: zoraweather
+- 開発者: zoraweatherdev
 - メールアドレス: zoraweatherdev@gmail.com
