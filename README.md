@@ -10,6 +10,7 @@
 - [Snapfilm プライバシーポリシー](./privacy-policy-snapfilm.html)
 - [Tukie プライバシーポリシー](./privacy-policy-tukie.html)
 - [アンチピック早見表 プライバシーポリシー](./privacy-policy-matchups.html)
+- [WaveWall プライバシーポリシー](./privacy-policy-wavewall.html)
 
 GitHub Pagesで公開しており、各アプリ・サイトのプライバシーポリシーURL欄にはGitHub Pages上の各ページのURLを登録しています。
 
